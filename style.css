@@ -1,0 +1,7 @@
+.main {
+    color: #3B4252;
+    cursor: url(ugliness1.cur), pointer;
+    position: absolute;
+    left: 50%;
+    margin-left: -200px;
+}
