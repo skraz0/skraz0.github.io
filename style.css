@@ -10,10 +10,6 @@
     cursor: url(ugliness1.cur), pointer;
 }
 
-h1, label {
-    font-size: 5vw;
-}
-
 hr {
   border: 1px solid black;
 }
