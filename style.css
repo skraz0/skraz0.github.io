@@ -1,7 +1,19 @@
-.main {
+.sub {
     color: #3B4252;
-    cursor: url(ugliness1.cur), pointer;
     position: absolute;
     left: 50%;
     margin-left: -200px;
+}
+
+.main {
+    height: 100%;
+    cursor: url(ugliness1.cur), pointer;
+}
+
+h1, label {
+    font-size: 5vw;
+}
+
+hr {
+  border: 1px solid black;
 }
